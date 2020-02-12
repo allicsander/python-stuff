@@ -1,4 +1,4 @@
-class MobilePhone():
+class MobilePhone:
     def __init__(self, display_size, ram, os):
         self.display_size = display_size
         self.ram = ram
